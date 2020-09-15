@@ -1,3 +1,1 @@
-# profiles - rest - api
-
-rest-api-code -- just to show
+# Djano testing with rest api
